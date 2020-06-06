@@ -1,3 +1,5 @@
 # test-git-signing
 
-Testing signing my git commits
+Testing signing my Git commits:
+
+    git log --show-signature
